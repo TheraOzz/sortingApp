@@ -1,24 +1,21 @@
-το project αποτελειται απο τα εξης αρχεία:
+# sorting application for peoplecert assignment
 
+## contains:
 
-1. main.py
-    από εδώ ξεκινάει το project
+- main.py
+    the project starts here
 
-2. nav.py
-    το navigator /μενου επιλογών, του προγράμματος
+- nav.py
+    navigator
 
-3. product.py
-    οτιδήποτε σχετίζεται με το προιόν και τη δημιουργία του
+- product.py
+    anything about product
 
-4. sort.py
-    οι functions που αφορούν τα sortings της λιστας
+- sort.py
+    sorting functions
 
-5. strategy.py
-    το strategy για τους τρόπους πληρωμής
+- strategy.py
+    the strategy for payment methods
 
-6. menu.py
-    βοηθητικές κλάσεις για μενου και χρώματα
-
-
-note:
-    το παρον project αφορά το 3 και το 4 assignments
+- menu.py
+    helping classes for menu and colored text

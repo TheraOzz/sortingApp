@@ -1,10 +1,10 @@
 # sorting application for peoplecert assignment
-quick /bubble /bucket sorting - strategy patern - payment method
+quick, bubble, bucket sorting - strategy patern - payment method
 
 
 ## contains:
 
-- main.py /the project starts here
+- main.py - entrypont of program
 
 - nav.py /navigator
 

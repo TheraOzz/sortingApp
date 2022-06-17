@@ -6,12 +6,12 @@ quick, bubble, bucket sorting - strategy patern - payment method
 
 - main.py - entrypont of program
 
-- nav.py /navigator
+- nav.py - navigator
 
-- product.py /anything about product
+- product.py - product build
 
-- sort.py /sorting functions
+- sort.py - sorting functions
 
-- strategy.py /the strategy for payment methods
+- strategy.py - strategy for payment methods
 
-- menu.py /helping classes for menu and colored text
+- menu.py - helping classes for menu and colored text

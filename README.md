@@ -1,5 +1,5 @@
 # sorting application for peoplecert assignment
-quick, bubble, bucket sorting - strategy patern - payment method
+quick /bubble /bucket sorting - strategy patern - payment method
 
 
 ## contains:
